@@ -20,6 +20,8 @@ We value community feedback! If you encounter any issues or have ideas for new f
 * Bugs – Clearly describe the issue, including steps to reproduce it.
 * Suggestions – Use `[Suggestion]` in the title to distinguish feature requests from bug reports.
 
+👉 [Submit an Issue](https://github.com/ventraks/nx-hacking/issues)
+
 ## 📂 Installation
 1. Download or clone the repository.
 2. Place the vtr-gardening folder into your server's `resources` directory.
